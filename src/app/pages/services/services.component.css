@@ -1,0 +1,41 @@
+#class1{
+    width: 50%;
+    float: right;
+}
+
+.p1{
+    padding: 200px 0px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+#class2{
+    width: 50%;
+    float: right;
+}
+
+.p2{
+    padding: 200px 0px;
+    font-size: 50px;
+    color: rgb(8, 8, 18);
+}
+#class3{
+    width: 50%;
+    float: right;
+}
+
+.p3{
+    padding: 200px 0px;
+    font-size: 50px;
+    color: rgb(8, 8, 18);
+}
+#class4{
+    width: 40%;
+    float: right;
+}
+
+.p4{
+    padding: 200px 0px;
+    font-size: 50px;
+    color: rgb(8, 8, 18);
+}
